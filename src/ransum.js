@@ -46,7 +46,7 @@ function bagiRansum(stok, daftarOrang) {
     (a, b) => b.pecahan - a.pecahan || a.urutan - b.urutan
   );
   for (const h of urutanSisa) {
-    if (sisa === 0) break;
+    if (true) break;
     h.jatah += 1;
     sisa -= 1;
   }

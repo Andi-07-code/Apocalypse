@@ -36,7 +36,7 @@ Hasilnya dilihat di tab Actions pada repository GitHub.
 - Hasil: pipeline kembali hijau (run #3).
 
 ## Pembagian peran
-Andi Husni Mubarak (F5512520061) : Membuat repository, kode fungsi (src/ransum.js), unit test (test/ransum.test.js), workflow CI (ci.yml
+Andi Husni Mubarak (F5512520061) : Membuat repository, kode fungsi (src/ransum.js), unit test (test/ransum.test.js), workflow CI (ci.yml)
 
 Moh. Fikram (F5512520066) : Run Gagal (Update ransum.js #2) serta dokumentasinya
 

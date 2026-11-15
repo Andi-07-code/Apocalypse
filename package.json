@@ -1,0 +1,13 @@
+{
+  "name": "apocaration",
+  "version": "1.0.0",
+  "description": "Sistem Pembagian Jatah Ransum Penyintas Pasca Apocalypse (simulasi fiksi)",
+  "main": "src/ransum.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

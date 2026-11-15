@@ -1,6 +1,6 @@
 # ApocaRation: Sistem Pembagian Jatah Ransum Penyintas Pasca Apocalypse
 Proyek Team-Based Project (TBP) mata kuliah Rekayasa Perangkat Lunak.
-
+Repository ini diuji otomatis menggunakan GitHub Actions.
 # Nama Anggota Kelompok:
 Andi Husni Mubarak - F5512520061
 
